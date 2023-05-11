@@ -1,0 +1,28 @@
+body{
+    background-color: beige;
+}
+h1{
+    color: rebeccapurple;
+    text-decoration: underline;
+}
+
+h1, h2{
+    text-align: center;
+    background-color: beige;
+}
+h2{
+    color: blueviolet;
+    font-size: 48px;
+}
+
+.screenshots{
+    justify-content: center;
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.card-body{
+    text-align: center;
+    background-color: grey;
+}
