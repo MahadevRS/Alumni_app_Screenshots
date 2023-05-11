@@ -1,5 +1,6 @@
 body{
     background-color: beige;
+    font-family: 'Times New Roman', Times, serif;
 }
 h1{
     color: rebeccapurple;
@@ -13,6 +14,10 @@ h1, h2{
 h2{
     color: blueviolet;
     font-size: 48px;
+}
+
+h5{
+    color: aliceblue;
 }
 
 .screenshots{
